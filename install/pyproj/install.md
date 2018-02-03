@@ -22,6 +22,10 @@ python -m pip install pyproj
 
 ### Distance between 2 points
 + Go into the python command line or equivalent
++ To open the python command line in the Command Prompt type:
+```
+python
+```
 + Run the following code
 ``` python
 import pyproj
