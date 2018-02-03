@@ -1,11 +1,11 @@
-# PyProj Install
+# PyProj
 
-
-## Download and install Visual C++ Compiler for Python 2.7
+## Pyproj Prerequisites
+#### Download and install Visual C++ Compiler for Python 2.7
 
 https://www.microsoft.com/en-us/download/details.aspx?id=44266
 
-## Download and install .Net Framework 3.5
+#### Download and install .Net Framework 3.5
 
 https://www.microsoft.com/en-us/download/details.aspx?id=22
 
@@ -20,7 +20,7 @@ python -m pip install pyproj
 
 ## Test Pyproj Installation
 
-### Distance between 2 points
+#### Distance between 2 points
 + Go into the python command line or equivalent
 + To open the python command line in the Command Prompt type:
 ```
