@@ -1,4 +1,4 @@
-# Python Geospatial
+# Python Geospatial Programming
 This repository includes instructions to setup a system for general geospatial development utilizing Python, GDAL, ArcMap, Pyproj and Numpy.
 
 You are encouraged to contribute if you feel something needs to be improved or added.
