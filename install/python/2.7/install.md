@@ -1,6 +1,8 @@
 # Install and configure Python for Windows
 
 ## Install Python 2.7
++ Go to https://www.python.org/downloads/
++ Download and install Python 2.7
 
 ## Add Python to Windows Path
 
